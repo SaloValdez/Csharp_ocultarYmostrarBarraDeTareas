@@ -1,0 +1,8 @@
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\obj\Debug\OcultarMostrar.exe
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\obj\Debug\OcultarMostrar.pdb
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\bin\Debug\OcultarMostrar.exe
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\bin\Debug\OcultarMostrar.pdb
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\obj\Debug\OcultarMostrar.csprojResolveAssemblyReference.cache
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\obj\Debug\OcultarMostrar.Form1.resources
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\obj\Debug\OcultarMostrar.Properties.Resources.resources
+C:\Users\SaloValdez\Desktop\OcultarMostrar\OcultarMostrar\obj\Debug\OcultarMostrar.csproj.GenerateResource.Cache

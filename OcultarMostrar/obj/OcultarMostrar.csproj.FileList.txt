@@ -1,0 +1,8 @@
+bin\Debug\OcultarMostrar.exe
+bin\Debug\OcultarMostrar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OcultarMostrar.Form1.resources
+obj\Debug\OcultarMostrar.Properties.Resources.resources
+obj\Debug\OcultarMostrar.csproj.GenerateResource.Cache
+obj\Debug\OcultarMostrar.exe
+obj\Debug\OcultarMostrar.pdb

@@ -1,0 +1,1 @@
+Ejemplo que muestra como ocultar y mostrar mediante apis la barra de tareas, el area de notificacion, los iconos del Systray  y el Reloj.
